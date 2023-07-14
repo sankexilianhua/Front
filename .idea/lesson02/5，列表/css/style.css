@@ -1,0 +1,43 @@
+
+#nav{
+    width:300px;
+    background: #a0a0a0;
+}
+
+
+.title{
+    font-size: 10px;
+    font-weight: bold;
+    text-indent: 1em;
+    line-height: 35px;
+    background: red;
+}
+
+
+/*
+list-style:
+       none 去掉原点
+       circle 空心圆
+       decimal 数字
+       square 正方形
+*/
+
+ul{
+    background: #a0a0a0;
+}
+
+ul li{
+    height:30px;
+    list-style: none;
+    text-indent: 1em;
+}
+
+a{
+    text-decoration: none;
+    front-size: 15px ;
+    color: #000;
+}
+
+a:hover{
+    color:orange;
+}
